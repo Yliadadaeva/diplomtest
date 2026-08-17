@@ -1,0 +1,17 @@
+C:\Users\Иван\Desktop\диплом\дизайн\дизайн\bin\Debug\дизайн.exe.config
+C:\Users\Иван\Desktop\диплом\дизайн\дизайн\bin\Debug\дизайн.exe
+C:\Users\Иван\Desktop\диплом\дизайн\дизайн\bin\Debug\дизайн.pdb
+C:\Users\Иван\Desktop\диплом\дизайн\дизайн\obj\Debug\дизайн.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\диплом\дизайн\дизайн\obj\Debug\MainWindow.g.cs
+C:\Users\Иван\Desktop\диплом\дизайн\дизайн\obj\Debug\App.g.cs
+C:\Users\Иван\Desktop\диплом\дизайн\дизайн\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Иван\Desktop\диплом\дизайн\дизайн\obj\Debug\дизайн_MarkupCompile.cache
+C:\Users\Иван\Desktop\диплом\дизайн\дизайн\obj\Debug\дизайн_MarkupCompile.lref
+C:\Users\Иван\Desktop\диплом\дизайн\дизайн\obj\Debug\MainWindow.baml
+C:\Users\Иван\Desktop\диплом\дизайн\дизайн\obj\Debug\дизайн.g.resources
+C:\Users\Иван\Desktop\диплом\дизайн\дизайн\obj\Debug\дизайн.Properties.Resources.resources
+C:\Users\Иван\Desktop\диплом\дизайн\дизайн\obj\Debug\дизайн.csproj.GenerateResource.cache
+C:\Users\Иван\Desktop\диплом\дизайн\дизайн\obj\Debug\дизайн.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\диплом\дизайн\дизайн\obj\Debug\дизайн.exe
+C:\Users\Иван\Desktop\диплом\дизайн\дизайн\obj\Debug\дизайн.pdb
+C:\Users\Иван\Desktop\диплом\дизайн\дизайн\obj\Debug\дизайн.exe.config
